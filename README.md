@@ -1,2 +1,2 @@
-# bintodec
-Simple binary to dec converter.
+# Bin to Dec
+Simple binary to dec converter, pretty useless.
