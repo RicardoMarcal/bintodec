@@ -1,2 +1,2 @@
 # Bin to Dec
-Simple binary to dec converter, pretty useless.
+Simple binary to decimal converter, pretty useless.
